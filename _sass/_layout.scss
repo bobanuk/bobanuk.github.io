@@ -19,7 +19,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: #fff;
     }
 }
 
@@ -32,7 +32,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: #fff;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -94,17 +94,19 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: #474457;
 }
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    color: #fff;
 }
 
 .contact-list,
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    color: #fff;
 }
 
 .footer-col-wrapper {

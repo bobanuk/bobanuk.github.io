@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Hi rails"
+comments: true
+---
+A Social Network in Rails: Activity Feed
+This post is part of an ongoing feature about creating a social network in Rails. You can see part 1 here, about creating elegant permalinks for your content.
+
+

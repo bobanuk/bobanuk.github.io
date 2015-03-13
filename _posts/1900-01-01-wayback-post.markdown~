@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: This is a wayback post
+comments: true
 ---
 
 # This is a wayback post
